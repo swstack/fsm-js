@@ -23,5 +23,12 @@
   "bugs": {
     "url": "https://github.com/swstack/jsfsm/issues"
   },
-  "homepage": "https://github.com/swstack/jsfsm#readme"
+  "homepage": "https://github.com/swstack/jsfsm#readme",
+
+  "dependencies": {
+
+  },
+
+  "devDependencies": {
+  }
 }
