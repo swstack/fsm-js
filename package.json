@@ -1,0 +1,27 @@
+{
+  "name": "jsfsm",
+  "version": "0.0.1",
+  "description": "This is an implementation of the [State Pattern](https://en.wikipedia.org/wiki/State_pattern) inspired by the Gang of Four and [Paul Osborne](https://github.com/posborne).",
+  "main": "lib/fsm.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swstack/jsfsm.git"
+  },
+  "keywords": [
+    "fsm",
+    "js",
+    "node"
+  ],
+  "author": "Stephen, Stack",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/swstack/jsfsm/issues"
+  },
+  "homepage": "https://github.com/swstack/jsfsm#readme"
+}
