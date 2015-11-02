@@ -15,5 +15,5 @@ npm install -g babel
 Run an example:
 
 ```
-babel-node --harmony <./path/to/example/client.js>
+babel-node --harmony /path/to/example/client.js
 ```
