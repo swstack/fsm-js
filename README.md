@@ -22,4 +22,5 @@ node /path/to/example/client.js
 Run tests:
 
 ```bash
+npm run test
 ```
