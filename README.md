@@ -9,11 +9,17 @@ Setup node:
 ```bash
 nvm install 4
 nvm use 4
-npm install -g babel
 ```
 
 Run an example:
 
 ```
-babel-node --harmony /path/to/example/client.js
+node /path/to/example/client.js
+```
+
+## Testing
+
+Run tests:
+
+```bash
 ```

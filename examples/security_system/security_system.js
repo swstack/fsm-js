@@ -1,6 +1,6 @@
 'use strict'
 
-import fsm from '../../lib/fsm'
+let fsm = require('../../lib/fsm')
 
 
 const STATE_OFF = 'STATE_OFF'

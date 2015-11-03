@@ -1,6 +1,6 @@
 'use strict'
 
-import SecuritySystem from './security_system'
+let SecuritySystem = require('./security_system')
 
 
 let system = new SecuritySystem()
